@@ -1,3 +1,5 @@
+![Aleataar Platform](Gemini_Generated_Image_3dklqc3dklqc3dkl.png)
+
 # Aleataar – Product Authenticity Verification Platform  
 ### Built with Flutter Web + Firebase  
 ### Developed by Ahmed Aljbry
@@ -64,10 +66,12 @@ lib/
     config/            # API endpoints, constants, themes
     services/          # Firestore, Auth, export logic
     utils/             # code generators, helpers, validators
+
   features/
     verification/      # public verification UI & logic
     admin/             # dashboard interface (protected)
     products/          # product & batch management
     auth/              # login/logout/admin auth
+
   app.dart
   main.dart
